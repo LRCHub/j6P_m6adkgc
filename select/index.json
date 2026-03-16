@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "もぐもぐYUMMY！ （ぽいずにゃ～しんどろーむ ver.）",
+  "base_artist": "猫又おかゆ",
+  "createdAt": "2026-03-16T14:26:46.109389Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "もぐもぐYUMMY! (ぽいずにゃ〜しんどろーむ ver.)",
+      "artist": "猫又おかゆ",
+      "has_synced": true,
+      "path": "select/01_もぐもぐYUMMY!_(ぽいずにゃ〜しんどろーむ_ver.)_猫又おかゆ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "もぐもぐYUMMY！ (ぽいずにゃ～しんどろーむ Ver.)",
+      "artist": "猫又おかゆ",
+      "has_synced": true,
+      "path": "select/02_もぐもぐYUMMY!_(ぽいずにゃ~しんどろーむ_Ver.)_猫又おかゆ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もぐもぐYUMMY! (ぽいずにゃ～しんどろーむ ver.)",
+      "artist": "猫又おかゆ",
+      "has_synced": false,
+      "path": "select/pl_01_もぐもぐYUMMY!_(ぽいずにゃ~しんどろーむ_ver.)_猫又おかゆ.txt"
+    }
+  ]
+}
